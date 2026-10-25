@@ -2,7 +2,7 @@
 
 Proyek eksplorasi end-to-end untuk memahami pola churn pelanggan pada dataset e-commerce Olist (Brazil). Membangun pipeline analisis mulai dari integrasi data multi-sumber, feature engineering, hingga perbandingan dua model klasifikasi: **Logistic Regression** dan **Random Forest**.
 
-> Proyek ini merupakan *proof of concept* dalam konteks akademik. Hasil model mencerminkan karakteristik dataset — mayoritas pelanggan Olist hanya bertransaksi satu kali — yang menjadi batasan natural untuk pemodelan churn. Keterbatasan ini didokumentasikan secara eksplisit sebagai bagian dari pembelajaran.
+> Proyek ini merupakan *proof of concept* dalam konteks akademik. Hasil model mencerminkan karakteristik dataset, mayoritas pelanggan Olist hanya bertransaksi satu kali yang menjadi batasan natural untuk pemodelan churn. Keterbatasan ini didokumentasikan secara eksplisit sebagai bagian dari pembelajaran.
 
 ---
 
